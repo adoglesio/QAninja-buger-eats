@@ -1,0 +1,54 @@
+{
+    "signup": {
+        "name": "Adoglésio Gomes",
+        "cpf": "05643093545",
+        "email": "adoglesiogomes18@gmail.com",
+        "whatsapp": "73999257758",
+        "address": {
+            "postalcode": "45985126",
+            "street": "Rua João Calmon", 
+            "number": "115",
+            "details": "na rua da UAI",
+            "district": "Centro",
+            "city_state": "Teixeira de Freitas/BA"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Pedro Almeida",
+        "cpf": "05643093545HPA",
+        "email": "pedroalmeidag18@gmail.com",
+        "whatsapp": "73999257758",
+        "address": {
+            "postalcode": "45985126",
+            "street": "Rua João Calmon", 
+            "number": "115",
+            "details": "na rua da UAI",
+            "district": "Centro",
+            "city_state": "Teixeira de Freitas/BA"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Adoglésio Gomes",
+        "cpf": "05643093545",
+        "email": "adoglesio.com.org",
+        "whatsapp": "73999257758",
+        "address": {
+            "postalcode": "45985126",
+            "street": "Rua João Calmon", 
+            "number": "115",
+            "details": "na rua da UAI",
+            "district": "Centro",
+            "city_state": "Teixeira de Freitas/BA"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
